@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Add me to your server!","Moderating servers!"];
+const statusMessages = ["Add Me To Your Server!","Moderating Servers!","Made For Minds.","Run /help"];
 
 
 let currentIndex = 0;
